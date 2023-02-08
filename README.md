@@ -1,1 +1,1 @@
-### Generative pre-trained transformer based language model for Neistche/Dostoevsky style output.
+### Generative pre-trained transformer based language model for Nietzsche/Dostoevsky style output.
